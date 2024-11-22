@@ -1,3 +1,4 @@
+const sequelize = require("sequelize");
 const banco = require("./banco")
 const materia = require("./materia")
 
